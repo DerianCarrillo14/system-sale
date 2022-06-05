@@ -31,10 +31,6 @@ en visual estudio abre la carpeta del proyecto y tendras acceso al codigo donde 
 
 _Para ver el funcionamiento abre el archivo HTML llamado index.html o bien si deseas puedes subirlo a ***NETIFLY*** para que corra en un servidor_
 
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
 
 ## Construido con 🛠️
 
