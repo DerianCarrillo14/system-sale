@@ -50,8 +50,14 @@ si deseas colaborar con el desarrollo de este proyecto por favor comunicarse con
 
 _Proyecto desarrollado por los compañeros de la universidad Mariano Galvez Antigua Guatemala_
 
-* **Nehemias Simon** - *Desarrollador Backend* - [NehemiasSimon](https://github.com/NehemiasS)
-* **Derian Carrillo** - *Desarrollador frontend* - [DerianCarrillo](https://github.com/DerianCarrillo14)
+* **Jennifer Arévalo** - *Requerimientos del sistema* -
+* **Luis Sicán** - *Diseño y maquetacion del sistema* 
+* **Nehemias Simon** - *Desarrollo del sistema* - [NehemiasSimon](https://github.com/NehemiasS)
+* **Jonathan Salazar** - *Pruebas del sistema* 
+* **Derian Carrillo** - *Implementacion y evaluación del sistema* - [DerianCarrillo](https://github.com/DerianCarrillo14)
+* **Melvin Chitay** - *Documentacion final del sistema* -[Melvin Chitay](https://github.com/macb1995) 
+ 
+
 
  
 ## Expresiones de Gratitud 🎁
