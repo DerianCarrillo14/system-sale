@@ -51,7 +51,7 @@ function procesarCompra() {
         
         //aqui se coloca el user id generado en el emailJS
         (function () {
-            emailjs.init("user_CEozz2F39lJJOLF5mJiDA");
+            emailjs.init("TfLIEheDF8KZCBM5I");
         })();
 
         var myform = $("form#procesar-pago");
@@ -61,7 +61,7 @@ function procesarCompra() {
 
             // Change to your service ID, or keep using the default service
             var service_id = "default_service";
-            var template_id = "template_3SA9LsqQ";
+            var template_id = "template_qzklevr";
 
             const cargandoGif = document.querySelector('#cargando');
             cargandoGif.style.display = 'block';
